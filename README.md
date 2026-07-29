@@ -6,6 +6,7 @@
 </p>
 
 Robotics & Embedded Systems Engineer | MS in Robotics & Autonomy, Drexel University ('26)
+I build autonomous systems — from sensor fusion pipelines on UGVs to embedded IoT devices — and I'm currently exploring how AI tooling (Claude, agentic workflows) can accelerate engineering work.
 
 <br>
 
