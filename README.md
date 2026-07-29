@@ -2,7 +2,7 @@
 <h3 align="center">@kanxshk</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+grad+student;AI+automation+%40+PECO+-+Exelon;ROS%2C+PyTorch%2C+multi-sensor+fusion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+Graduate;AI+automation+%40+PECO+-+Exelon;ROS%2C+PyTorch%2C+multi-sensor+fusion" alt="Typing SVG" />
 </p>
 
 Robotics & Embedded Systems Engineer | MS in Robotics & Autonomy, Drexel University ('26)
