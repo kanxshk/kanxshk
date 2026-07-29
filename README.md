@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+grad+student;AI+automation+%40+PECO+-+Exelon;ROS%2C+PyTorch%2C+multi-sensor+fusion" alt="Typing SVG" />
 </p>
 
-Robotics and Autonomy grad student at Drexel, currently on co-op at PECO (Exelon) building AI Copilot agents that automate fault-calculation workflows and cut manual processing time by 30%. Before that I was fusing LiDAR and camera data on a Jetson Orin Nano for real-time UGV tracking, and before that, flashing ESP-32s for a tea-harvesting robot. I like the overlap between robotics, power systems, and applied AI — and I build tools that make the boring parts of engineering faster.
+Robotics & Embedded Systems Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 
 <br>
 
