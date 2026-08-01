@@ -47,6 +47,7 @@ I build autonomous systems — from sensor fusion pipelines on UGVs to embedded 
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi--Sensor%20Fusion-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Copilot%20Agents-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-0A66C2?style=for-the-badge" />
 </p>
 
