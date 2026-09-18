@@ -5,9 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+grad+%40+Drexel;AI+automation+%40+PECO+-+Exelon;LLM+agents%2C+real-time+DSP%2C+ROS2" alt="Typing SVG" />
 </p>
 
+<p align="center">
 Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
-
+<br>
 ~ i like building things that run in real time ~
+</p>
 
 <br>
 
