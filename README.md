@@ -2,12 +2,51 @@
 <h3 align="center">@kanxshk</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+Graduate;AI+automation+%40+PECO+-+Exelon;ROS%2C+PyTorch%2C+multi-sensor+fusion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+Autonomy+grad+%40+Drexel;AI+automation+%40+PECO+-+Exelon;LLM+agents%2C+real-time+DSP%2C+ROS2" alt="Typing SVG" />
 </p>
 
-Robotics & Embedded Systems Engineer | MS in Robotics & Autonomy, Drexel University ('26)
+Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 
-I build autonomous systems — from sensor fusion pipelines on UGVs to embedded IoT devices — and I'm currently exploring how AI tooling (Claude, agentic workflows) can accelerate engineering work.
+I like building things that run in real time — a voice assistant that listens for a wake word and talks back, a C++ vocal-cleanup plugin with zero latency, sensor fusion on a UGV. Lately most of my work has been around LLM agents: building Copilot agents at PECO that cut manual processing by 30%, and shipping a Flask dashboard that turns 155K rows of trade data into weekly reports for leadership. I lean on Claude Code and Codex heavily, and I'm interested in where agentic workflows fit into actual engineering.
+
+<br>
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kanxshk/JarvisAssistant">Jarvis</a></h3>
+      <p>Real-time AI desktop assistant. Wake word → Whisper → LLM tool calls → streaming TTS. Opens apps, controls Spotify, monitors the system, takes dictation.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>Whisper</code> <code>VAD</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Vaighai Market Pulse</h3>
+      <p>AI-powered export market intelligence. Reconciles ERP + customs data (155K+ rows) for share, churn and anomaly detection, with a role-gated dashboard and an LLM agent layer that keeps sensitive data on-prem.</p>
+      <p><code>Python</code> <code>DuckDB</code> <code>Flask</code> <code>Plotly</code> <code>OpenAI/Ollama</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kanxshk/SmoothieVST">Smoothie</a></h3>
+      <p>Zero-latency vocal cleanup VST3 — de-esser, de-boxy and de-plosive in one plugin with phase-matched dry/wet blending and an automated signal-analysis test suite.</p>
+      <p><code>C++20</code> <code>JUCE</code> <code>DSP</code> <code>CMake</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kanxshk/ugv-multisensor-fusion">UGV Multi-Sensor Fusion</a></h3>
+      <p>Camera + LiDAR + IMU fusion on a Jetson Orin Nano for trajectory tracking and state estimation, with a YOLOv8 detection pipeline running in real time.</p>
+      <p><code>ROS2</code> <code>YOLOv8</code> <code>Jetson</code> <code>Visual Odometry</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kanxshk/LoopHarmonizer">LoopHarmonizer</a></h3>
+      <p>Audio-in, MIDI-out VST3. Drop in a loop, it detects the key and generates chord/pad and bassline MIDI — for producers who work by ear.</p>
+      <p><code>C++</code> <code>JUCE</code> <code>MIDI</code></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <br>
 
