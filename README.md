@@ -7,7 +7,7 @@
 
 Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 
-I like building things that run in real tim
+~ I like building things that run in real time ~
 <br>
 
 ## Projects
