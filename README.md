@@ -7,8 +7,7 @@
 
 Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 
-I like building things that run in real time — a voice assistant that listens for a wake word and talks back, a C++ vocal-cleanup plugin with zero latency, sensor fusion on a UGV. Lately most of my work has been around LLM agents: building Copilot agents at PECO that cut manual processing by 30%, and shipping a Flask dashboard that turns 155K rows of trade data into weekly reports for leadership. I lean on Claude Code and Codex heavily, and I'm interested in where agentic workflows fit into actual engineering.
-
+I like building things that run in real tim
 <br>
 
 ## Projects
