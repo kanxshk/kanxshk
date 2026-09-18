@@ -8,11 +8,11 @@
 <p align="center">
 Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 <br>
+
 ~ i like building things that run in real time ~
 </p>
 
 <br>
-
 ## Projects
 
 <table>
