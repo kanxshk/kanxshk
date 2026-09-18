@@ -8,7 +8,6 @@
 Robotics & AI Engineer | MS in Robotics & Autonomy, Drexel University ('26)
 
 ~ i like building things that run in real time ~
-~ i create robots, real-time audio tools, and AI agents ~
 
 <br>
 
